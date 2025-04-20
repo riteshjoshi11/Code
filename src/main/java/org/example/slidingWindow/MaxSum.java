@@ -1,5 +1,14 @@
 package org.example.slidingWindow;
+/*
+Sliding Window Concept
+Instead of using nested loops (which gives O(n²) time), the sliding window lets you move a “window” across the array and reuse previous calculations to keep it O(n).
+ Input
+    arr = [2, 1, 5, 1, 3, 2], k = 3
+Out put
+9  // because [5, 1, 3] is the subarray with max sum
 
+
+ */
 public class MaxSum {
     public static void main(String[] args) {
         int[] arr = {2, 1, 5, 1, 3, 2};
