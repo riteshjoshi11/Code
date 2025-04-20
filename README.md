@@ -11,22 +11,22 @@ Remove duplicates from sorted array
 Container With Most Water
 
 🔄 2. Sliding Window
-When to use: Finding subarrays/substrings with max/min/specific sums or properties.
+When to use: Finding sub arrays/substrings with max/min/specific sums or properties.
 
 Common problems:
 
-Maximum sum subarray of size k
+Maximum sum sub array of size k
 
 Longest substring without repeating characters
 
-Minimum size subarray sum
+Minimum size sub array sum
 
 📊 3. Prefix Sum / Cumulative Sum
 When to use: Range sum queries or manipulating sums efficiently.
 
 Common problems:
 
-Subarray sum equals k
+Sub array sum equals k
 
 Range sum query
 
@@ -34,6 +34,16 @@ Finding equilibrium index
 
 🧮 4. Hashing / Hash Map
 When to use: Fast lookup or counting frequency.
+Typical Problems That Use Hashing:
+Counting frequency of elements
+
+Finding duplicates
+
+Finding pairs with a given sum
+
+Detecting cycles or patterns
+
+Intersection of arrays
 
 Common problems:
 
@@ -77,7 +87,7 @@ Clone graph
 Number of islands
 
 🧠 8. Dynamic Programming
-When to use: Optimal substructure + overlapping subproblems.
+When to use: Optimal substructure + overlapping sub problems.
 
 Common problems:
 
